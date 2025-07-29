@@ -9,15 +9,15 @@ Contains 70,000 medical records with features such as age, gender, blood pressur
 Target variable: cardio (1 if disease is present, 0 otherwise).
 
 🔧 Workflow
-1. Data Preprocessing
+1. Data Preprocessing  
 Handled missing/outlier values, scaled numerical features, and encoded categorical variables.
 
 Engineered BMI (Body Mass Index) from height and weight.
 
-2. Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)  
 Visualized distributions, correlations, and class imbalances to understand feature importance and trends.
 
-3. Model Building
+3. Model Building  
 Built pipelines for multiple models including:
 
 Logistic Regression
