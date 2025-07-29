@@ -34,7 +34,7 @@ Used GridSearchCV for hyperparameter tuning.
 
 Evaluated using Accuracy, Precision, Recall, F1-score, and ROC-AUC.
 
-4. Deployment
+4. Deployment  
 Developed a Streamlit app where users can input health attributes and receive:
 
 Disease prediction
